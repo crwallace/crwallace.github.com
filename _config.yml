@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/me.jpg
+picture: assets/images/300-courtney-eimerman-wallace.jpg
 
 url: http://crwallace.github.io
 
@@ -28,21 +28,21 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: cwallace39
+twitter: CourtPholio
 # google: mygoogle
-instagram: myinstagram
-pinterest: mypinterest
-linkedin: mylinkedin
+instagram: eimerache
+pinterest: acupunk2011
+linkedin: courtneyew
 # youtube: myyoutube
 spotify: myspotify
-github: mygithub
+github: crwallace
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: me@courtneyew.com
 
 authors:
     johndoe:
