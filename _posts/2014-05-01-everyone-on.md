@@ -8,9 +8,7 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Find low-cost Internet and affordable computers in your area."
-jemoji: <img class="emoji" title=":us:" alt=":us:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1fa-1f1f8.png" height="20" width="20" align="absmiddle" data-pin-nopin="true">
+jemoji: <img class="emoji" title=":computer:" alt=":computer:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" height="20" width="20" align="absmiddle" data-pin-nopin="true">
 author: johndoe
-externalLink: false
+externalLink: http://everyoneon.org/
 ---
-
-:computer:
