@@ -10,5 +10,5 @@ layout: page
 
 <p>Prior to the U.S. Digital Service, I spent several years in civic/political tech, building applications that help people reach voters and get more people involved in the political process. Campaigns and Elections Magazine named me a “2015 Rising Star”, which only fueled my flame for public service.</p>
 
-<p>In addition to public service, I also serves as a board member for the LGBTQ Task Force and LGBTTech Institute.</p>
+<p>In addition to public service, I also currently serve as the Board Chair for LGBTTech Institute and formerly served as a board member for the LGBTQ Task Force.</p>
 
