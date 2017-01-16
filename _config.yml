@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/me.jpg
 
-url: https:crwallace.github.io/indigo
+url: http://crwallace.github.io
 
 permalink: /:title/
 
@@ -31,17 +31,17 @@ disqus: mydisqus
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
+instagram: myinstagram
+pinterest: mypinterest
+linkedin: mylinkedin
+# youtube: myyoutube
 spotify: myspotify
 github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
 email: myemail@gmail.com
 
 authors:
@@ -71,8 +71,8 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: true
+about: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -90,7 +90,7 @@ blog-nav-links: false
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 sass:
     sass_dir: _sass
