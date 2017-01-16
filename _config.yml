@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/300-courtney-eimerman-wallace.jpg
 
-url: http://crwallace.github.io
+url: http://courtneyew.com/
 
 permalink: /:title/
 
@@ -45,18 +45,12 @@ github: crwallace
 email: me@courtneyew.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    courtneyew:
+        name: Courtney Eimerman-Wallace
+        bio: A Woman that gives a lot of Sh**s about helping others.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/300-courtney-eimerman-wallace.jpg
+        twitter: CourtPholio
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
